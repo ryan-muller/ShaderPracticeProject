@@ -1,0 +1,19 @@
+***LEVEL OPTIONS***
+-------------------
+***AssetTextures***
+Floor texture (0-4)
+1,
+Wall texture (5-9)
+6,
+Roof Blocks active (1 = TRUE/ 0 = FALSE):
+1,
+-------------------
+***LightingOptions***(1 = TRUE/ 0 = FALSE)
+Torch active :
+1,
+Directional active:
+1,
+-------------------
+Skybox options (Default(F) / Sunset(S) / Daytime(D) / Space (P) / Midnight (M)):
+F,
+-------------------
